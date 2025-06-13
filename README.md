@@ -1,5 +1,4 @@
 ### Ola! Eu sou o Leo da Silva 🖐️
-### [![Blog](https://img.shields.io/website?label=Leo_Da_Silva_Francisco.com&style=for-the-badge&url=https://portifolio-leo-da-silva.netlify.app)](https://portifolio-leo-da-silva.netlify.app)
 <div> 
   <a href="https://www.youtube.com/@leodasilvafrancisco8377" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leo_silva.ao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
